@@ -72,6 +72,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.material.icons.extended)
     implementation(libs.androidx.material3.adaptive)
+    implementation(libs.androidx.material3.adaptive.navigation.suite)
     implementation(libs.androidx.ui.tooling.preview)
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
